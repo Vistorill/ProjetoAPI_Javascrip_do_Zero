@@ -5,7 +5,7 @@ criar o arquivo package
  ### npm install express
 
  ///instalar o modulo para reiniciar o servidor sempre que houver alteracao no codigo fonte 
-### npm install -D nodemon
+### npm install -g nodemon
 
 
 
